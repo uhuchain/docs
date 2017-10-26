@@ -18,4 +18,8 @@ Insurance can collect and recieve history and current motor data for underwritin
 
 ## Service Provider 
 
+The service provider is digitally connected to the inusurance and the company and can interact without media disruption directly with both. Processes are faster and with much more comfort, probably cheaper for all participants. 
+
 ## Use Cases Details 
+
+### Customer
