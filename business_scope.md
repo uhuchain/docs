@@ -1,4 +1,9 @@
 # Business Scope 
+
+## Vision 
+
+To create a customer centric platform which combines price comparision, customer portal, insurance and services in one platform. 
+
 ## Customer
 
 For the customer uhuchain is the ledger for his objects he wants to insure. Uhuchain will start with motor. 
