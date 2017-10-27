@@ -10,3 +10,6 @@ Here we would like to document the techology scope
 
 # Next Steps / Plans  
 Our current plans and decided next steps
+
+# Questions / Problems
+Questions & problems we have identified while trying to solve our business problems with uhuchain.
