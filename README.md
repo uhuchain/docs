@@ -1,6 +1,6 @@
 # Motivation 
-We are technology and insurance experts and we would like to challenge the blockchain technology within the insurance scope. 
-But instead of just developing a 'Hello World something' we would like to act as if we will found a new company. And maybe our 'training' is so successfull that we can leave the prototype and training path sometimes in the future for bigger plans.  
+We are technology and insurance experts and we would like to challenge the blockchain technology within the insurance business. 
+But instead of just developing a 'Hello World Something' we would like to act as if we will found a new company and/or Open Source Project. Possibly our 'training' approach is so successfull that we can leave the prototype and training path sometimes in the future for bigger plans. If not we have learned at least about hyperledger,blockchain and its limitations.  
 
 # Business Scope 
 Here we would like to document the buisness scope and ideas. 
