@@ -2,8 +2,7 @@
 
 ## Vision 
 
-To create a customer centric platform which combines price comparision, customer portal, insurance and services in one platform. 
-The inured object is the leading entity. 
+To create a customer centric platform which combines price comparision, customer portal,  insurance and services. The inured object and its lifecycle is the leading entity. The  customer owns its data, based on a platform economics strategy.
 
 ## Customer
 
