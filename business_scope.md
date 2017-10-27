@@ -29,4 +29,11 @@ The service provider is digitally connected to the inusurance and the company an
 ## Use Cases Details 
 
 ### Customer
+
+#### Register 
+#### Create Car 
+#### Change Car 
+#### Delete Car 
+
+
 ### Insurance 
