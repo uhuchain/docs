@@ -3,6 +3,7 @@
 ## Vision 
 
 To create a customer centric platform which combines price comparision, customer portal, insurance and services in one platform. 
+The inured object is the leading entity. 
 
 ## Customer
 
