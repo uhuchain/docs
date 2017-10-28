@@ -34,6 +34,14 @@ The service provider is digitally connected to the inusurance and the company an
 #### Create Car 
 #### Change Car 
 #### Delete Car 
-
+#### Accept Offer 
+#### Create Claim
 
 ### Insurance 
+
+#### Create Quote 
+#### Create Offer 
+#### Bind Policy 
+
+### Service Provider
+
