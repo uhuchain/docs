@@ -28,19 +28,27 @@ The service provider is digitally connected to the inusurance and the company an
 ## Use Cases Details 
 
 ### Customer
-
 #### Register 
 #### Create Car 
-#### Change Car 
+#### Change Car Data
 #### Delete Car 
 #### Accept Offer 
 #### Create Claim
+#### Sell Car
+#### Buy Car
 
 ### Insurance 
-
 #### Create Quote 
 #### Create Offer 
-#### Bind Policy 
+#### Bind Policy
+#### Manage Claim
 
 ### Service Provider
+#### Manage Claim 
+#### Repair Car
+#### Read Data for the Car
+#### Write Data for the Car
+#### Provide new Service Offer for an Car
+
+
 
