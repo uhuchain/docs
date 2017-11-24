@@ -1,0 +1,89 @@
+Policy
+
+policyNcd: [No Claims Discount in %]
+policyCustomerType: [private,commercial]
+policyPeriod: [1, 2,3,4,5,>5 years]
+policyDeductible:[amount]
+policyPAB: [amount] // Personal Accident Benefist
+policyType: [liability, comprehensive, partial coverage]
+policyPhysicalCoverage:[amount]
+policyMedicalCoverage:[amount]
+policyNumberOfDirvers:
+policyMileagePerYear:
+policyGarageDiscount: [boolean]
+policyQuote:[amount]
+policyCurrency:[amount]
+policyPayment:[yearly, quarterly, monthly]
+policyState: [active, inactive, closed]
+policyStartDate:
+policyEndDate:
+policyInsuranceId
+policyCustomerId:
+policyCustomerSex:
+policyCustomerBirthDate:
+policyLienHolderId
+policyLoanExists:
+policyLoanQuota: [in %]
+policyDescription:
+
+
+if a policy is closed, there must not be any open claims assigned to it.
+if a policy is inactive no new claims can be opened.
+A policy can only get closed if all claims assigend to if are closed-
+A policy can only be created if there is an active car.
+A policy can only be created if there is no other policy of the same policyType in state 'active' or 'inactive'.
+
+Car
+
+carBrand: [BMW, Mercedes, Audi, ...]
+carModel: [325i, ...]
+carType: [SUV,Kombi, ...]
+carVIN:
+carColor:
+carEngine: [DIESEL, BENZIN, ELEKTRO]
+carGeartype: [Automatic, Circuit]
+carConstYear:
+carInitialValue:
+carDescription:
+carActualMilage:
+carPlaceOfRegistration:
+carDateofRegistration:
+carOwnerType: [private, commercial]
+carStatus: [active, inactive, closed]
+carSecuriy:[alarm,immobilizer,both,none]
+
+
+A car can have one not closed policy of each policyType.
+A car can only get closed if all its policies are closed.
+
+
+
+Claims
+claimDate:
+claimTime:
+claimAddress:
+claimInjury: [boolean]
+claimInjuryDescription:
+claimPoliceInfomred:[boolean]
+claimPoliceRefnumber:
+claimPoliceLaidCharges: [boolean]
+claimPoliceLaidChargesDetails:
+claimOtherCarsInvoled: [boolean]
+claimNumberOfOtherCarsInvoled:
+claimListofOtherCarsInvoled: [List of carIds]
+claimNumberofPassengers:
+claimNumberOfWitnesses:
+claimType:[Windscreen, Accident while Driving, Damaged while parked, Theft/Attempted theft]
+claimValue:
+claimDescription:
+claimClearedDate:
+claimStatus:[active.inactive,closed]
+
+A claim can be created only if an active policy exists
+A claim must be assigned to a policy
+
+
+
+
+
+
